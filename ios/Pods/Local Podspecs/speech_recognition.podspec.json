@@ -1,0 +1,26 @@
+{
+  "name": "speech_recognition",
+  "version": "0.3.0",
+  "summary": "Flutter Speech recognition plugin",
+  "description": "A new flutter plugin project.",
+  "homepage": "https://github.com/rxlabz/speech_recognition",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "RX Labz": "rxlabz@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

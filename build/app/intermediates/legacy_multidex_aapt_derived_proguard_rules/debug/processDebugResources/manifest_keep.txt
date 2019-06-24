@@ -1,0 +1,2 @@
+# Referenced at /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/app/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:32
+-keep class io.flutter.app.FlutterApplication { <init>(...); }

@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/contacts_service/ios/Classes/ContactsServicePlugin.h

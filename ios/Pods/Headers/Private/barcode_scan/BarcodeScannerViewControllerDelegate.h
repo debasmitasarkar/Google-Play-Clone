@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/barcode_scan/ios/Classes/BarcodeScannerViewControllerDelegate.h

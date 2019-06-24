@@ -1,0 +1,1 @@
+bz.rxla.flutter.speechrecognition

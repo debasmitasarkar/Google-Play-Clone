@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/speech_recognition/ios/Classes/SpeechRecognitionPlugin.h

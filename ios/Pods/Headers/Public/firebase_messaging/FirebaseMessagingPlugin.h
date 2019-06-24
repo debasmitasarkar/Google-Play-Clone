@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/firebase_messaging/ios/Classes/FirebaseMessagingPlugin.h

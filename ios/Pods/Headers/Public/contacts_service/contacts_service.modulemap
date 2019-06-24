@@ -1,0 +1,6 @@
+module contacts_service {
+  umbrella header "contacts_service-umbrella.h"
+
+  export *
+  module * { export * }
+}

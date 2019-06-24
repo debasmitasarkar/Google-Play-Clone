@@ -1,0 +1,607 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:1:1-51:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/72c9978d2809a430c9d2674ab4a4943f/AndroidManifest.xml:17:1-22:12
+MERGED from [:google_sign_in] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [:contacts_service] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/contacts_service/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:firebase_storage] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:speech_recognition] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/speech_recognition/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [:local_auth] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/local_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-20:12
+MERGED from [:cloud_firestore] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/permission/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_core] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:barcode_scan] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/barcode_scan/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-17:12
+MERGED from [:firebase_auth] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/3cba90cc2bbd8222e47d590f08f6ba7c/AndroidManifest.xml:15:1-26:12
+MERGED from [com.android.support:design:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8c45f84f87a66d123f30cc80c0683d13/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.3.aar/1da1f30b30736a072936275a5d6822ad/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/087858c7557d7fa75b1d4b61a4b0e07d/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/002af110ee70ccb3f39ffd35e9d2d06c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/2a47356c0268e718d72d35a8bcdb6c32/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/5d6deca4740a7e0b4ba327ba0494636b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/1b2b7a518eac114202345b4e479ad2bc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/030ef7927ff94932be76669df1a087ce/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/e0f63105b6a1500c591c121c20f2b657/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ffe1a7736c6363b3f6c3e80143e4acaa/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/27bbe4ecbb8ec7eccb71f43fe4f771cd/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/c90c7c6699c8c22e8b1b84df84639e83/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/75a39ad2d1487cb38f6507bf5f9141f4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/d8e2e6ecc36fab08f5fb25165160c1bd/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/81398aa3858c77c50b177291b9a76b89/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2246fa49a24136ba4f957afb8a3dfce8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/70d2c3bbaa48d92d0f7ac2b609f18a3d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86a95a56ed3bac73fc8f744708447547/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8f6574be2dc7a7ed96b10c34a09c3c62/AndroidManifest.xml:17:1-28:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/23ed42e4a73f3def28696aa5e33a3e7e/AndroidManifest.xml:2:1-13:12
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/5eac7eed67e3fe2f3db8f372538d777c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9dec848cb9ec10279cae938b8dc5d1e/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/683a8e00e807e6d3b60d083210bdc472/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3f70b64a20d6dc19e99d038d1cbedde2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7ca88614ef1d91c99bee442ac8e48a9e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ddc3a5788fe72737e194802e841431fd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0e01c81e913093ee50633dfd33c75ac3/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/72fe5c73e2014b4722aff3c5fc8c12d6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f6f249ea65acf18be8c0b1ffd1e55128/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6a94ace7232ce7fac688ecb93043d91a/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0efb1573e1203cdeddf227a8b0bf91b/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/00ed0051cc8978d9d720bb1fd09a5006/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/ba44f65974d1cfb5372938966916834c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2a04e6443df4fecab1c68636deeab53e/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:1:1-51:12
+INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:1:1-51:12
+	package
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:1:1-51:12
+		INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:1:1-51:12
+		INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [:google_sign_in] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-67
+MERGED from [:google_sign_in] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/3cba90cc2bbd8222e47d590f08f6ba7c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/3cba90cc2bbd8222e47d590f08f6ba7c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:8:22-64
+uses-sdk
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:9:5-43
+INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:9:5-43
+INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:9:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/72c9978d2809a430c9d2674ab4a4943f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/72c9978d2809a430c9d2674ab4a4943f/AndroidManifest.xml:20:5-43
+MERGED from [:google_sign_in] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_sign_in] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/google_sign_in/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:contacts_service] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/contacts_service/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:contacts_service] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/contacts_service/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:firebase_storage] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_storage/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:speech_recognition] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/speech_recognition/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-44
+MERGED from [:speech_recognition] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/speech_recognition/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-44
+MERGED from [:local_auth] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/local_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/local_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/cloud_firestore/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:permission] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/permission/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:permission] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/permission/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_core/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:barcode_scan] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/barcode_scan/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:barcode_scan] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/barcode_scan/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:firebase_auth] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/3cba90cc2bbd8222e47d590f08f6ba7c/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/3cba90cc2bbd8222e47d590f08f6ba7c/AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.support:design:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8c45f84f87a66d123f30cc80c0683d13/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8c45f84f87a66d123f30cc80c0683d13/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.3.aar/1da1f30b30736a072936275a5d6822ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.3.aar/1da1f30b30736a072936275a5d6822ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/087858c7557d7fa75b1d4b61a4b0e07d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-16.0.0.aar/087858c7557d7fa75b1d4b61a4b0e07d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/002af110ee70ccb3f39ffd35e9d2d06c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-16.0.0.aar/002af110ee70ccb3f39ffd35e9d2d06c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/2a47356c0268e718d72d35a8bcdb6c32/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/2a47356c0268e718d72d35a8bcdb6c32/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/5d6deca4740a7e0b4ba327ba0494636b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-flags-16.0.1.aar/5d6deca4740a7e0b4ba327ba0494636b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/1b2b7a518eac114202345b4e479ad2bc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/1b2b7a518eac114202345b4e479ad2bc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/030ef7927ff94932be76669df1a087ce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/030ef7927ff94932be76669df1a087ce/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/e0f63105b6a1500c591c121c20f2b657/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/e0f63105b6a1500c591c121c20f2b657/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ffe1a7736c6363b3f6c3e80143e4acaa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ffe1a7736c6363b3f6c3e80143e4acaa/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/27bbe4ecbb8ec7eccb71f43fe4f771cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/27bbe4ecbb8ec7eccb71f43fe4f771cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/c90c7c6699c8c22e8b1b84df84639e83/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/c90c7c6699c8c22e8b1b84df84639e83/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/75a39ad2d1487cb38f6507bf5f9141f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/75a39ad2d1487cb38f6507bf5f9141f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/d8e2e6ecc36fab08f5fb25165160c1bd/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-database-collection-16.0.0.aar/d8e2e6ecc36fab08f5fb25165160c1bd/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/81398aa3858c77c50b177291b9a76b89/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/81398aa3858c77c50b177291b9a76b89/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2246fa49a24136ba4f957afb8a3dfce8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2246fa49a24136ba4f957afb8a3dfce8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/70d2c3bbaa48d92d0f7ac2b609f18a3d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/70d2c3bbaa48d92d0f7ac2b609f18a3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86a95a56ed3bac73fc8f744708447547/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86a95a56ed3bac73fc8f744708447547/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8f6574be2dc7a7ed96b10c34a09c3c62/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8f6574be2dc7a7ed96b10c34a09c3c62/AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/23ed42e4a73f3def28696aa5e33a3e7e/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/23ed42e4a73f3def28696aa5e33a3e7e/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/5eac7eed67e3fe2f3db8f372538d777c/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/5eac7eed67e3fe2f3db8f372538d777c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9dec848cb9ec10279cae938b8dc5d1e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9dec848cb9ec10279cae938b8dc5d1e/AndroidManifest.xml:21:5-23:54
+MERGED from [android.arch.core:runtime:1.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/683a8e00e807e6d3b60d083210bdc472/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/683a8e00e807e6d3b60d083210bdc472/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3f70b64a20d6dc19e99d038d1cbedde2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3f70b64a20d6dc19e99d038d1cbedde2/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7ca88614ef1d91c99bee442ac8e48a9e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7ca88614ef1d91c99bee442ac8e48a9e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ddc3a5788fe72737e194802e841431fd/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ddc3a5788fe72737e194802e841431fd/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0e01c81e913093ee50633dfd33c75ac3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0e01c81e913093ee50633dfd33c75ac3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/72fe5c73e2014b4722aff3c5fc8c12d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/72fe5c73e2014b4722aff3c5fc8c12d6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f6f249ea65acf18be8c0b1ffd1e55128/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f6f249ea65acf18be8c0b1ffd1e55128/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6a94ace7232ce7fac688ecb93043d91a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6a94ace7232ce7fac688ecb93043d91a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0efb1573e1203cdeddf227a8b0bf91b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0efb1573e1203cdeddf227a8b0bf91b/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/00ed0051cc8978d9d720bb1fd09a5006/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/00ed0051cc8978d9d720bb1fd09a5006/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/ba44f65974d1cfb5372938966916834c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/protolite-well-known-types-16.0.0.aar/ba44f65974d1cfb5372938966916834c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2a04e6443df4fecab1c68636deeab53e/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2a04e6443df4fecab1c68636deeab53e/AndroidManifest.xml:5:5-44
+INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:9:5-43
+INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:9:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8c45f84f87a66d123f30cc80c0683d13/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:9:5-43
+		INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:9:15-40
+		INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:10:22-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.CAMERA
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:13:5-65
+MERGED from [:barcode_scan] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/barcode_scan/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-65
+MERGED from [:barcode_scan] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/barcode_scan/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:13:22-62
+application
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:22:5-50:19
+MERGED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-18:19
+MERGED from [:barcode_scan] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/barcode_scan/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-15:19
+MERGED from [:barcode_scan] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/barcode_scan/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:5-15:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:13:5-19:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:13:5-19:19
+MERGED from [com.android.support:design:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8c45f84f87a66d123f30cc80c0683d13/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8c45f84f87a66d123f30cc80c0683d13/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.3.aar/1da1f30b30736a072936275a5d6822ad/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.3.aar/1da1f30b30736a072936275a5d6822ad/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/2a47356c0268e718d72d35a8bcdb6c32/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-interop-16.0.1.aar/2a47356c0268e718d72d35a8bcdb6c32/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/1b2b7a518eac114202345b4e479ad2bc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.4.aar/1b2b7a518eac114202345b4e479ad2bc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/030ef7927ff94932be76669df1a087ce/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-api-16.0.2.aar/030ef7927ff94932be76669df1a087ce/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/e0f63105b6a1500c591c121c20f2b657/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/e0f63105b6a1500c591c121c20f2b657/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ffe1a7736c6363b3f6c3e80143e4acaa/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ffe1a7736c6363b3f6c3e80143e4acaa/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/27bbe4ecbb8ec7eccb71f43fe4f771cd/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/27bbe4ecbb8ec7eccb71f43fe4f771cd/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/c90c7c6699c8c22e8b1b84df84639e83/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/c90c7c6699c8c22e8b1b84df84639e83/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/75a39ad2d1487cb38f6507bf5f9141f4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/75a39ad2d1487cb38f6507bf5f9141f4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/81398aa3858c77c50b177291b9a76b89/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/81398aa3858c77c50b177291b9a76b89/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2246fa49a24136ba4f957afb8a3dfce8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/2246fa49a24136ba4f957afb8a3dfce8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/70d2c3bbaa48d92d0f7ac2b609f18a3d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/70d2c3bbaa48d92d0f7ac2b609f18a3d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86a95a56ed3bac73fc8f744708447547/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86a95a56ed3bac73fc8f744708447547/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8f6574be2dc7a7ed96b10c34a09c3c62/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8f6574be2dc7a7ed96b10c34a09c3c62/AndroidManifest.xml:22:5-26:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/23ed42e4a73f3def28696aa5e33a3e7e/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/23ed42e4a73f3def28696aa5e33a3e7e/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/5eac7eed67e3fe2f3db8f372538d777c/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/5eac7eed67e3fe2f3db8f372538d777c/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9dec848cb9ec10279cae938b8dc5d1e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9dec848cb9ec10279cae938b8dc5d1e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3f70b64a20d6dc19e99d038d1cbedde2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3f70b64a20d6dc19e99d038d1cbedde2/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7ca88614ef1d91c99bee442ac8e48a9e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7ca88614ef1d91c99bee442ac8e48a9e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ddc3a5788fe72737e194802e841431fd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ddc3a5788fe72737e194802e841431fd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0e01c81e913093ee50633dfd33c75ac3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0e01c81e913093ee50633dfd33c75ac3/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/72fe5c73e2014b4722aff3c5fc8c12d6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/72fe5c73e2014b4722aff3c5fc8c12d6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f6f249ea65acf18be8c0b1ffd1e55128/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f6f249ea65acf18be8c0b1ffd1e55128/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6a94ace7232ce7fac688ecb93043d91a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6a94ace7232ce7fac688ecb93043d91a/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0efb1573e1203cdeddf227a8b0bf91b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0efb1573e1203cdeddf227a8b0bf91b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2a04e6443df4fecab1c68636deeab53e/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.3.aar/2a04e6443df4fecab1c68636deeab53e/AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:24:9-33
+	android:icon
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:25:9-43
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:23:9-57
+activity#com.example.chatapp.MainActivity
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:26:9-48:20
+	android:launchMode
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:28:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:31:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:32:13-55
+	android:configChanges
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:30:13-137
+	android:theme
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:27:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:37:13-39:40
+	android:value
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:39:17-37
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:38:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:40:13-43:29
+action#android.intent.action.MAIN
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:41:17-68
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:42:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:44:13-47:30
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:46:27-73
+activity#com.apptreesoftware.barcodescan.BarcodeScannerActivity
+ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:49:9-90
+MERGED from [:barcode_scan] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/barcode_scan/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-91
+MERGED from [:barcode_scan] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/barcode_scan/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:9-91
+	android:name
+		ADDED from /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/android/app/src/main/AndroidManifest.xml:49:19-88
+service#io.flutter.plugins.firebasemessaging.FlutterFirebaseInstanceIDService
+ADDED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-12:19
+	android:name
+		ADDED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:18-102
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-11:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:17-80
+	android:name
+		ADDED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:25-77
+service#io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:9-17:19
+	android:name
+		ADDED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:18-101
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-16:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/debasmita.sarkar/Documents/ui_engineering/UI conf POC/glow_pay/build/firebase_messaging/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:25-75
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-auth-16.0.1.aar/248b236912b35b99740f7e6339406c87/AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/3cba90cc2bbd8222e47d590f08f6ba7c/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-storage-16.0.3.aar/3cba90cc2bbd8222e47d590f08f6ba7c/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:10:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:14:9-18:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:14:18-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-firestore-17.1.1.aar/7bac4367d85397335a9aa2ecafa502fd/AndroidManifest.xml:16:17-111
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8c45f84f87a66d123f30cc80c0683d13/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86a95a56ed3bac73fc8f744708447547/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/86a95a56ed3bac73fc8f744708447547/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8f6574be2dc7a7ed96b10c34a09c3c62/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/8f6574be2dc7a7ed96b10c34a09c3c62/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9dec848cb9ec10279cae938b8dc5d1e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/b9dec848cb9ec10279cae938b8dc5d1e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3f70b64a20d6dc19e99d038d1cbedde2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/3f70b64a20d6dc19e99d038d1cbedde2/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7ca88614ef1d91c99bee442ac8e48a9e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7ca88614ef1d91c99bee442ac8e48a9e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ddc3a5788fe72737e194802e841431fd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ddc3a5788fe72737e194802e841431fd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0e01c81e913093ee50633dfd33c75ac3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/0e01c81e913093ee50633dfd33c75ac3/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/72fe5c73e2014b4722aff3c5fc8c12d6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/72fe5c73e2014b4722aff3c5fc8c12d6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f6f249ea65acf18be8c0b1ffd1e55128/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/f6f249ea65acf18be8c0b1ffd1e55128/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6a94ace7232ce7fac688ecb93043d91a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/6a94ace7232ce7fac688ecb93043d91a/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0efb1573e1203cdeddf227a8b0bf91b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/f0efb1573e1203cdeddf227a8b0bf91b/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8c45f84f87a66d123f30cc80c0683d13/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/8c45f84f87a66d123f30cc80c0683d13/AndroidManifest.xml:27:13-51
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.3.aar/1da1f30b30736a072936275a5d6822ad/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.3.aar/1da1f30b30736a072936275a5d6822ad/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.3.aar/1da1f30b30736a072936275a5d6822ad/AndroidManifest.xml:29:13-82
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:24:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-auth-16.0.4.aar/f67ce603073fc10262f7160ff070d489/AndroidManifest.xml:33:17-109
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-17.0.2.aar/fbb79055db584c5a579e309d642b757a/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.2] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-16.2.2.aar/5bd9beb8609fa3d6230af98b72d74c2b/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.4] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-16.0.4.aar/4e2f29841216e705f94895233114862e/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.3.aar/91c22e5007de887f07657a263253f07e/AndroidManifest.xml:51:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ffe1a7736c6363b3f6c3e80143e4acaa/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ffe1a7736c6363b3f6c3e80143e4acaa/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ffe1a7736c6363b3f6c3e80143e4acaa/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ffe1a7736c6363b3f6c3e80143e4acaa/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/27bbe4ecbb8ec7eccb71f43fe4f771cd/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/27bbe4ecbb8ec7eccb71f43fe4f771cd/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/27bbe4ecbb8ec7eccb71f43fe4f771cd/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/27bbe4ecbb8ec7eccb71f43fe4f771cd/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/27bbe4ecbb8ec7eccb71f43fe4f771cd/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/70d2c3bbaa48d92d0f7ac2b609f18a3d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/70d2c3bbaa48d92d0f7ac2b609f18a3d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/debasmita.sarkar/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/70d2c3bbaa48d92d0f7ac2b609f18a3d/AndroidManifest.xml:24:13-58
